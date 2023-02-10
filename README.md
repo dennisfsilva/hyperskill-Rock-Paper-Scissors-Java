@@ -2,6 +2,7 @@
 
 [Rock Paper Scissors](https://hyperskill.org/projects/314) provides an opportunity to practice coding fundamentals such as arrays, the Random class, formatted strings, and algorithms by creating a Rock-Paper-Scissors game with Player vs. Computer mode.
 
+
 Code sample:
 
 Example 1:
